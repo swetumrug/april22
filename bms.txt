@@ -1,0 +1,24 @@
+===============Bank ===================
+1000|Union Bank|8881114455|www.unionbank.com
+================Employee[s] ================
+1|Kevin|Patel|kevin@abc.com|8881110000|PartTime|20.0|18.0
+
+2|Rahul|Shah|rahul@abc.com|8881112222|PartTime|25.0|20.0
+
+3|Kavita|Sukhadia|kavita@abc.com|8472223344|FullTime|5000.0
+
+4|Shilpi|Sharma|shilpi@abc.com|8472223355|FullTime|5500.0
+
+5|admin|hr|admin@abc.com|8470001111|FullTime|10000.0
+
+5|ram|patel|ram@gmail.com|45345|FullTime|4353.0
+
+================Customer[s] ================
+1|Mahasweta|Thakkar|mahasweta@gmail.com|6302221155|[Account{aid=1, accType=Saving, balance=5000.0, transactionList=[Transaction{tid=1, tranType=Credit, amount=100.0, datetime=2023-04-22T14:59:15.628235400Z}, Transaction{tid=2, tranType=Debit, amount=1000.0, datetime=2023-04-22T14:59:15.628235400Z}]}, Account{aid=2, accType=Checking, balance=25000.0, transactionList=[Transaction{tid=3, tranType=Credit, amount=200.0, datetime=2023-04-22T14:59:15.630215300Z}, Transaction{tid=4, tranType=Debit, amount=2000.0, datetime=2023-04-22T14:59:15.630215300Z}]}]
+
+2|Margrate|Yesuvijs|margrate@gmail.com|6302221155|[Account{aid=3, accType=Saving, balance=6000.0, transactionList=[Transaction{tid=5, tranType=Credit, amount=300.0, datetime=2023-04-22T14:59:15.631213Z}, Transaction{tid=6, tranType=Debit, amount=3000.0, datetime=2023-04-22T14:59:15.631213Z}]}, Account{aid=4, accType=Checking, balance=30000.0, transactionList=[Transaction{tid=7, tranType=Credit, amount=400.0, datetime=2023-04-22T14:59:15.631213Z}, Transaction{tid=8, tranType=Debit, amount=4000.0, datetime=2023-04-22T14:59:15.631213Z}]}]
+
+3|f|f|f|45345|[Account{aid=5, accType=Saving, balance=0.0, transactionList=[]}]
+
+3|f|f|f|45345|[Account{aid=6, accType=Checking, balance=0.0, transactionList=[]}]
+
